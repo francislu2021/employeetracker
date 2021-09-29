@@ -4,9 +4,8 @@ UOT-ASSIGNMENT 12 SQL
 ## demo link url
 https://watch.screencastify.com/v/vpRwstzVP525GzsH7BZ1
 
-![Getting Started] (./image/image.png)
+<img width="1003" alt="image" src="https://user-images.githubusercontent.com/85589987/135299076-135067da-8521-4123-8a4b-dfe4ee68334a.png">
 
-Screen Shot 2021-09-29 at 11.05.09 AM
 
 ## Your Task
 Developers frequently have to create interfaces that make it easy for non-developers to view and interact with information stored in databases. These interfaces are called content management systems (CMS). Your challenge this week is to build a command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL.
