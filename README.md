@@ -4,6 +4,8 @@ UOT-ASSIGNMENT 12 SQL
 ## demo link url
 https://watch.screencastify.com/v/vpRwstzVP525GzsH7BZ1
 
+![Getting Started] (./image/image.png)
+
 Screen Shot 2021-09-29 at 11.05.09 AM
 
 ## Your Task
