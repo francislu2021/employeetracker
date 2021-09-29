@@ -1,0 +1,29 @@
+{
+    "name": "employeetracker",
+    "version": "1.0.0",
+    "description": "UOT-ASSIGNMENT 12 SQL",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/francislu2021/employeetracker.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/francislu2021/employeetracker/issues"
+    },
+    "homepage": "https://github.com/francislu2021/employeetracker#readme",
+    "dependencies": {
+        "console.table": "^0.10.0",
+        "express": "^4.17.1",
+        "inquirer": "^8.1.5",
+        "mysql2": "^2.3.0"
+    },
+    "devDependencies": {
+        "jest": "^27.2.3"
+    }
+}
