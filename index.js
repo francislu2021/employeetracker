@@ -3,7 +3,7 @@ const inquirer = require("inquirer");
 const consoleTable = require("console.table");
 const promisemysql = require("promise-mysql");
 
-// Connection Properties
+// connecting to employeeDB sql 
 const connectionProperties = {
     host: "localhost",
     port: 3306,
@@ -12,7 +12,7 @@ const connectionProperties = {
     database: "employeeDB"
 }
 
-// Creating Connection
+// Creating Connection object
 const connection = mysql.createConnection(connectionProperties);
 
 
